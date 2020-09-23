@@ -82,8 +82,9 @@
         color: var(--nav-a);
         font-family: var(--nav-typeface);
       }
-      .router-link-active {
+      .router-link-exact-active {
         color: var(--nav-isactive);
+        font-weight: 600;
       }
       .nav-logo{
         min-width: 242px;
